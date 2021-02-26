@@ -1,0 +1,6 @@
+{"cites":[
+    {"id":"001","client":"adrian","estat":"pendent","treballador":"Ivan","data":"11/03/2021","tempsEstimat":"pendent","tempsReal":"pendent"},
+    {"id":"002","client":"vicent","estat":"pendent","treballador":"Alex","data":"21/03/2021","tempsEstimat":"pendent","tempsReal":"pendent"},
+    {"id":"003","client":"adrian","estat":"confirmada","treballador":"Juan","data":"01/03/2021","tempsEstimat":"1 dia","tempsReal":"pendent"},
+    {"id":"004","client":"adrian","estat":"finalitzada","treballador":"Juan","data":"22/02/2021","tempsEstimat":"2 dies","tempsReal":"3 dies"}
+]}
